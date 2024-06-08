@@ -5,7 +5,6 @@ import Home from "./pages/Home/Home";
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
 import Cart from "./pages/Cart/Cart";
 import StoreContextProvider from "./components/context/StoreContext";
-import FoodDisplay from "./components/FoodDisplay/FoodDisplay";
 import Footer from "./components/Footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
 const App = () => {
